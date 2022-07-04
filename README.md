@@ -32,7 +32,6 @@ I am a Software Developer.
 
 - :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chidinma-nnamani-0b5a53238/)
 
-
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
