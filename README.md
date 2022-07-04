@@ -8,10 +8,10 @@
   <a target="_blank" href="https://www.linkedin.com/in/chidinma-nnamani-0b5a53238/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a target="_blank" href="https://medium.com/@nnamani.ezinne">
+  <a target="_blank" href="https://medium.com/@nnamanichidinma203">
     <img src="https://img.shields.io/badge/Meduim-black?style=for-the-badge&logo=meduim&logoColor=white" alt="Meduim Badge"/>
   </a>
-  <a target="_blank" href="https://twitter.com/ZinnyCodes">
+  <a target="_blank" href="https://twitter.com/DinmaCode">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
@@ -22,9 +22,9 @@
 
 I am a Software Developer.
 
-- :telescope: I am working as a Software Engineer and contributing to frontend and backend for building web applications. Also I perform Quality Assurance tests for web applications.
+- :telescope: I am working as a Software Engineer and contributing to frontend for building web applications.
 
-- :seedling: Exploring Technical Content Writing. [![Meduim Badge](https://img.shields.io/badge/Meduim-black?style=for-the-badge&logo=meduim&logoColor=white)](https://medium.com/@nnamani.ezinne)
+- :seedling: Exploring Technical Content Writing. [![Meduim Badge](https://img.shields.io/badge/Meduim-black?style=for-the-badge&logo=meduim&logoColor=white)](https://medium.com/@nnamanichidinma203)
 
 
 
@@ -57,8 +57,7 @@ I am a Software Developer.
 
 ### :fire: My Stats :
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Ezinnem&theme=dark)](https://github.com/Ezinnem)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=chideenma&theme=dark)](https://github.com/chideenma)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=Ezinnem&show_icons=true&locale=en&layout=compact&hide=python&theme=vision-friendly-dark)](https://github.com/Ezinnem)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=chideenma&show_icons=true&locale=en&layout=compact&hide=python&theme=vision-friendly-dark)](https://github.com/chideenma)
 
