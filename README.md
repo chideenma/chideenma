@@ -5,7 +5,7 @@
 </div>
 
 <div id="badges">
-  <a target="_blank" href="https://www.linkedin.com/in/nnamaniezinne/">
+  <a target="_blank" href="https://www.linkedin.com/in/chidinma-nnamani-0b5a53238/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a target="_blank" href="https://medium.com/@nnamani.ezinne">
@@ -30,7 +30,7 @@ I am a Software Developer.
 
 - :zap: In my free time, I contribute to Open Source projects and read tech articles.
 
-- :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nnamaniezinne/)
+- :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chidinma-nnamani-0b5a53238/)
 
 
 ---
@@ -61,23 +61,4 @@ I am a Software Developer.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=Ezinnem&show_icons=true&locale=en&layout=compact&hide=python&theme=vision-friendly-dark)](https://github.com/Ezinnem)
 
-https://github.com/anuraghazra/github-readme-stats
 
-
-
-
-
-<!--
-**Ezinnem/Ezinnem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
